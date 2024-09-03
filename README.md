@@ -14,7 +14,7 @@ Bu program, Python 3 ile çalışır. Programı kullanmak için aşağıdaki ad�
 
 1. Bu repoyu bilgisayarınıza klonlayın veya zip dosyası olarak indirin.
 2. Terminal veya komut satırını açın ve programın bulunduğu dizine gidin.
-3. `reminder.py` dosyasını çalıştırın.
+3. `main.py` dosyasını çalıştırın.
 
 ## Gereksinimler
 
